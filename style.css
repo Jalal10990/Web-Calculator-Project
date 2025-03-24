@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: rgb(249, 249, 3);
+    border: 2px solid black;
+    border-radius: 5px;
+    display: inline-grid;
+    
+    position: relative;
+    left: 30vw;
+    top: 30vh;
+    background-color: black;
+}
+input[type="button"]{
+    background-color: rgb(244, 114, 1);
+    color: white;
+    border: 2px solid black;
+    width: 100%; 
+}
+input[type="text"]{
+    background-color: beige;
+    border: 2px solid black;
+    width: 100%;
+}
